@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\bin\Debug\net7.0\03_DataTypes.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\bin\Debug\net7.0\03_DataTypes.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\bin\Debug\net7.0\03_DataTypes.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\bin\Debug\net7.0\03_DataTypes.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\bin\Debug\net7.0\03_DataTypes.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\refint\03_DataTypes.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\03_DataTypes.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\03_DataTypes\obj\Debug\net7.0\ref\03_DataTypes.dll

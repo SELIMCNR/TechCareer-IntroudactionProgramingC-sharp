@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\bin\Debug\net7.0\01_İntro.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\bin\Debug\net7.0\01_İntro.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\bin\Debug\net7.0\01_İntro.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\bin\Debug\net7.0\01_İntro.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\bin\Debug\net7.0\01_İntro.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\refint\01_İntro.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\01_İntro.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\01_İntro\obj\Debug\net7.0\ref\01_İntro.dll

@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\bin\Debug\net7.0\02_WriteMethods.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\bin\Debug\net7.0\02_WriteMethods.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\bin\Debug\net7.0\02_WriteMethods.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\bin\Debug\net7.0\02_WriteMethods.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\bin\Debug\net7.0\02_WriteMethods.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\refint\02_WriteMethods.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\02_WriteMethods.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\İlkders\20230330\WriteMethods\obj\Debug\net7.0\ref\02_WriteMethods.dll
