@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\bin\Debug\net7.0\05_Exercise.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\bin\Debug\net7.0\05_Exercise.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\bin\Debug\net7.0\05_Exercise.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\bin\Debug\net7.0\05_Exercise.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\bin\Debug\net7.0\05_Exercise.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\refint\05_Exercise.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\05_Exercise.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\05_Exercise\obj\Debug\net7.0\ref\05_Exercise.dll
