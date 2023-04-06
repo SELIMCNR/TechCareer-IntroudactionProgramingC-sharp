@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\bin\Debug\net7.0\01_Switch_Case.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\bin\Debug\net7.0\01_Switch_Case.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\bin\Debug\net7.0\01_Switch_Case.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\bin\Debug\net7.0\01_Switch_Case.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\bin\Debug\net7.0\01_Switch_Case.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\refint\01_Switch_Case.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\01_Switch_Case.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\20230405\obj\Debug\net7.0\ref\01_Switch_Case.dll

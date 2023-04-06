@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\bin\Debug\net7.0\02_Switch_Expression.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\bin\Debug\net7.0\02_Switch_Expression.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\bin\Debug\net7.0\02_Switch_Expression.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\bin\Debug\net7.0\02_Switch_Expression.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\bin\Debug\net7.0\02_Switch_Expression.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\refint\02_Switch_Expression.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\02_Switch_Expression.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\02_Switch_Expression\obj\Debug\net7.0\ref\02_Switch_Expression.dll
