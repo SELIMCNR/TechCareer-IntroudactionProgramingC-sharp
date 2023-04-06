@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\bin\Debug\net7.0\04_Random.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\bin\Debug\net7.0\04_Random.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\bin\Debug\net7.0\04_Random.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\bin\Debug\net7.0\04_Random.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\bin\Debug\net7.0\04_Random.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\refint\04_Random.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\04_Random.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ikinciders\20230403\04_Random\obj\Debug\net7.0\ref\04_Random.dll
