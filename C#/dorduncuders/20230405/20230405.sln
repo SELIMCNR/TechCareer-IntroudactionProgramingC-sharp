@@ -3,11 +3,23 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.5.33502.453
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Switch_Case", "20230405\01_Switch_Case.csproj", "{507C5111-A631-468D-90C7-1565ACF623A1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_Switch_Case", "01_Switch_Case\01_Switch_Case.csproj", "{507C5111-A631-468D-90C7-1565ACF623A1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_Switch_Expression", "02_Switch_Expression\02_Switch_Expression.csproj", "{71292F7A-BE3D-44CE-8930-5D411F478CD7}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Debuging", "03_Debuging\03_Debuging.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Exceptions", "03_Exceptions\03_Exceptions.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Debuging", "04_Debuging\04_Debuging.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06_Try_Parse", "06_Try_Parse\06_Try_Parse.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07_ifelseyapısı", "07_ifelseyapısı\07_ifelseyapısı.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Exercise", "08_Exercise\08_Exercise.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08_Exercise_2", "08_Exercise_2\08_Exercise_2.csproj", "{62B246EF-2E96-48A6-9804-EC6A7BD731E7}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
