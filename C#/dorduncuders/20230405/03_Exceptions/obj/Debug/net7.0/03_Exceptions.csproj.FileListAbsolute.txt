@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\bin\Debug\net7.0\03_Exceptions.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\bin\Debug\net7.0\03_Exceptions.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\bin\Debug\net7.0\03_Exceptions.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\bin\Debug\net7.0\03_Exceptions.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\bin\Debug\net7.0\03_Exceptions.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\refint\03_Exceptions.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\03_Exceptions.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\03_Exceptions\obj\Debug\net7.0\ref\03_Exceptions.dll

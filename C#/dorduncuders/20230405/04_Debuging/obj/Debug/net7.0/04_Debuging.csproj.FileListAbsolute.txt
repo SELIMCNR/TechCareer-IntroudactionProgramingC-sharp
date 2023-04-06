@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\bin\Debug\net7.0\04_Debuging.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\bin\Debug\net7.0\04_Debuging.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\bin\Debug\net7.0\04_Debuging.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\bin\Debug\net7.0\04_Debuging.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\bin\Debug\net7.0\04_Debuging.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\refint\04_Debuging.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\04_Debuging.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\dorduncuders\01_Switch_Case\04_Debuging\obj\Debug\net7.0\ref\04_Debuging.dll
