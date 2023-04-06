@@ -1,0 +1,15 @@
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\bin\Debug\net7.0\07_İfelseyapısı.exe
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\bin\Debug\net7.0\07_İfelseyapısı.deps.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\bin\Debug\net7.0\07_İfelseyapısı.runtimeconfig.json
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\bin\Debug\net7.0\07_İfelseyapısı.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\bin\Debug\net7.0\07_İfelseyapısı.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.csproj.AssemblyReference.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.AssemblyInfoInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.AssemblyInfo.cs
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.csproj.CoreCompileInputs.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\refint\07_İfelseyapısı.dll
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.pdb
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\07_İfelseyapısı.genruntimeconfig.cache
+C:\Users\btk02\OneDrive\Masaüstü\İntroudactionZoomders\C#\ucuncuders\20230404\07_İfelseyapısı\obj\Debug\net7.0\ref\07_İfelseyapısı.dll
